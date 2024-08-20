@@ -31,8 +31,6 @@ SQL: For querying and managing the database.
 Python: For data manipulation, analysis, and visualization.
 Jupyter Notebook: For interactive data analysis and visualization.
 Getting Started
-# Clone the repository:
-git clone https://github.com/yourusername/SQL-Python-Ecommerce-Project.git
 
 # Navigate to the project directory:
 cd SQL-Python-Ecommerce-Project
